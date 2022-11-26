@@ -1,3 +1,5 @@
+#Time Complexity:: O(len(s)*len(p)) 
+#Space Complexity:: O(len(s)*len(p))
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         #base case if len of p is greater than s
