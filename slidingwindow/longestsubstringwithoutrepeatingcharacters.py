@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         #using the array to store all the ascii values
