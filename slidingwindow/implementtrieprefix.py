@@ -1,3 +1,5 @@
+#Time Complexity:: O(l)
+#Space Complexity:: O(n*l)
 class TrieNode:
     def __init__(self):
         #creating  TRIE CLASS NODE AND ISEND VALUE TO BE FAlsse
